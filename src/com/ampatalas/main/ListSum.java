@@ -1,3 +1,5 @@
+package com.ampatalas.main;
+
 import java.util.Arrays;
 
 /**
