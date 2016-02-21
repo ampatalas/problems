@@ -8,3 +8,6 @@ List of problems solved:
   3. Write a function that computes the list of the first 100 Fibonacci numbers. (Just calculating N number; solution can be easily modified into providing the list.) [Solution](src/com/ampatalas/main/Fibonacci.java), [Unit tests](src/com/ampatalas/test/FibonacciTest.java)
   4. Write a function that given a list of non negative integers, arranges them such that they form the largest possible number: [Solution](src/com/ampatalas/main/LargestNumberArrangement.java), [Unit tests](src/com/ampatalas/test/LargestNumberArrangementTest.java)
   5. Write a program that outputs all possibilities to put + or - or nothing between the numbers 1, 2, ..., 9 (in this order) such that the result is always 100: [Solution](src/com/ampatalas/main/SumOf100.java)
+  
+
+All coments regarding those solutions are welcome :)
