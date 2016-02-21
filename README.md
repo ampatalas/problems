@@ -10,4 +10,4 @@ List of problems solved:
   5. Write a program that outputs all possibilities to put + or - or nothing between the numbers 1, 2, ..., 9 (in this order) such that the result is always 100: [Solution](src/com/ampatalas/main/SumOf100.java)
   
 
-All coments regarding those solutions are welcome :)
+All comments regarding solutions presented are welcome :)
